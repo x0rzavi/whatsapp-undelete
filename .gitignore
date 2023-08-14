@@ -1,0 +1,4 @@
+.env
+node_modules
+.wwebjs*
+package-lock.json
